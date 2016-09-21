@@ -1,0 +1,52 @@
+!DOCTYPE html>
+<!DOCTYPE html>
+
+<html>
+<head>
+   <meta charset="utf-8">
+   <title> <i>Show Steers</i></title>
+   <style>
+
+body {
+	background-color: #faf2e4;
+	margin: 0 15%;
+	font-family: sans-serif;
+	}
+
+h1 {
+	text-align: center;
+	font-family: serif;
+	font-weight: normal;
+	text-transform: uppercase;
+	border-bottom: 1px solid #57b1dc;
+	margin-top: 30px;
+}
+
+h2 {
+	color: #d1633c;
+	font-size: 1em;
+}
+
+   </style>
+</head>
+<header> <hgroup>How to Pick out a Show Steer</hgroup></header>
+
+<body>
+<h1> <img src="file://C:/Users/Kayla/Pictures/black.jpg" width="280" height="180" alt="" title=""</h1>
+
+
+<h2> <em><dfn>How to Pick a Show Steer</dfn></em> </h2>
+<p> <strong> <dd>
+
+Structurally Sound
+<p> Heavy Muscled</p>
+<p>Eye Appealin</p>
+..</dd> </strong> </p>
+
+
+
+<link>page 3 content.html </link>
+<address>
+<small>This website was made by Kayla Gantz</small>
+</address>
+<footer>Show steers </footer>
