@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+
+<html>
+<head>
+   <meta charset="utf-8">
+   <title> <i>Show Steers</i></title>
+   <style>
+
+body {
+	background-color: #faf2e4;
+	margin: 0 15%;
+	font-family: sans-serif;
+	}
+
+h1 {
+	text-align: center;
+	font-family: serif;
+	font-weight: normal;
+	text-transform: uppercase;
+	border-bottom: 1px solid #57b1dc;
+	margin-top: 30px;
+}
+
+h2 {
+	color: #d1633c;
+	font-size: 1em;
+}
+
+   </style>
+</head>
+<header> <hgroup>Fitting a Show Steer</hgroup></header>
+
+<body>
+<h1><s><del><<img src="file://C:/Users/Kayla/Pictures/show steer 1.png" width="275" height="183" alt="" title="" /></del></s></h1>
+
+
+<h2> <em><dfn>Fitting a show steer</dfn></em> </h2>
+<p> <strong> <dd>Fitting should be done on the day of .
+Fitting your animal consist of pulling the hair up on the legs,
+ As you pull the hair up on the legs with your scotch comb, spray adhesive on the hair in order to make it hold.
+ Before you begin working the legs or any other body parts you must first wash and blow dry the hair thoroughly..</dd> </strong> </p>
+
+
+
+
+<address>
+<small>This website was made by Kayla Gantz</small>
+</address>
+<footer>Show steers </footer>
